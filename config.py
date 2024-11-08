@@ -1,4 +1,5 @@
-
+#author : Saad HAJARI 
+#mail : saadhajari10@gmail.com
 # Location for job search
 location = ["London", "Manchester"]  # Example locations
   
