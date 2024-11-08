@@ -1,0 +1,12 @@
+https://www.reed.co.uk/jobs/etl-developer-jobs-in-London?pageno=1&salaryFrom=10000&salaryTo=80000&dateCreatedOffSet=lasttwoweeks&isEasyApply=true
+https://www.reed.co.uk/jobs/data-engineer-jobs-in-London?pageno=1&salaryFrom=10000&salaryTo=80000&dateCreatedOffSet=lasttwoweeks&isEasyApply=true
+https://www.reed.co.uk/jobs/etl-developer-jobs-in-London?pageno=2&salaryFrom=10000&salaryTo=80000&dateCreatedOffSet=lasttwoweeks&isEasyApply=true
+https://www.reed.co.uk/jobs/data-engineer-jobs-in-London?pageno=2&salaryFrom=10000&salaryTo=80000&dateCreatedOffSet=lasttwoweeks&isEasyApply=true
+https://www.reed.co.uk/jobs/etl-developer-jobs-in-London?pageno=3&salaryFrom=10000&salaryTo=80000&dateCreatedOffSet=lasttwoweeks&isEasyApply=true
+https://www.reed.co.uk/jobs/data-engineer-jobs-in-London?pageno=3&salaryFrom=10000&salaryTo=80000&dateCreatedOffSet=lasttwoweeks&isEasyApply=true
+https://www.reed.co.uk/jobs/etl-developer-jobs-in-Manchester?pageno=1&salaryFrom=10000&salaryTo=80000&dateCreatedOffSet=lasttwoweeks&isEasyApply=true
+https://www.reed.co.uk/jobs/data-engineer-jobs-in-Manchester, Lancashire?pageno=1&salaryFrom=10000&salaryTo=80000&dateCreatedOffSet=lasttwoweeks&isEasyApply=true
+https://www.reed.co.uk/jobs/etl-developer-jobs-in-Manchester?pageno=2&salaryFrom=10000&salaryTo=80000&dateCreatedOffSet=lasttwoweeks&isEasyApply=true
+https://www.reed.co.uk/jobs/data-engineer-jobs-in-Manchester?pageno=2&salaryFrom=10000&salaryTo=80000&dateCreatedOffSet=lasttwoweeks&isEasyApply=true
+https://www.reed.co.uk/jobs/etl-developer-jobs-in-Manchester?pageno=3&salaryFrom=10000&salaryTo=80000&dateCreatedOffSet=lasttwoweeks&isEasyApply=true
+https://www.reed.co.uk/jobs/data-engineer-jobs-in-Manchester?pageno=3&salaryFrom=10000&salaryTo=80000&dateCreatedOffSet=lasttwoweeks&isEasyApply=true
