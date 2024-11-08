@@ -1,3 +1,6 @@
+#author : Saad HAJARI 
+#mail : saadhaajri10@gmail.com
+
 import requests
 from lxml import html, etree
 import csv
