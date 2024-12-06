@@ -2,6 +2,9 @@
 
 This project is a web scraper for extracting job listings from reed.co.uk platforms reed it's a platform like **LinkedIn**, **Indeed**, **Glassdoor** , **Monster**  and other job sites. It collects data such as job title, salary, location, company, description, contract type, and easy-apply status. The data can be exported to CSV, XML, and JSON formats. Additionally, the tool supports salary conversion into different currencies using live exchange rates. It can be integrated into a **jobs bot** or **automator** to streamline job applications or job tracking.
 
+
+![reed_pink](https://github.com/user-attachments/assets/84891cb2-741d-463e-b985-b8b125af9d17)
+
 ---
 
 ## Features
